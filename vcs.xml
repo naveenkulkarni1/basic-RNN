@@ -10,8 +10,16 @@
           <option name="url" value="git@github.com:naveenkulkarni1/basic-RNN.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/naveenkulkarni1/basic-multilayer-lstm" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/naveenkulkarni1/basic-lstm-sequence.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Naveen\TimeSeries_Using_RNN\Basic_RNN" />
+    <option name="cloneParentDir" value="C:\Naveen\TimeSeries_Using_RNN\LSTM" />
   </component>
 </application>
